@@ -1,0 +1,23 @@
+.modal-button {
+  margin-right: 30px; /* Ajusta el valor del margen derecho según tus preferencias */
+}
+
+
+.card-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+#fecha{
+  opacity: 0.5;
+}
+
+.card .card-img-top {
+  border-radius: 0;
+}
+
+
+#cuerpo-carta {
+  padding-top: 8px;
+}
+
